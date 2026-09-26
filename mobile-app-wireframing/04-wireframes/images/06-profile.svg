@@ -1,0 +1,57 @@
+<svg viewBox="0 0 375 812" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="373" height="810" fill="#ffffff" stroke="#222" stroke-width="2"/>
+  <rect x="0" y="0" width="375" height="30" fill="#f2f2f2" stroke="#222" stroke-width="1"/>
+
+  <!-- avatar + name -->
+  <circle cx="187" cy="110" r="45" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+  <rect x="147" y="170" width="80" height="14" fill="#d9d9d9"/>
+  <rect x="132" y="190" width="110" height="9" fill="#eee"/>
+
+  <!-- guest mode banner (ties back to N3: optional account) -->
+  <rect x="25" y="220" width="325" height="46" rx="8" fill="#f6f6f6" stroke="#ddd" stroke-width="1"/>
+  <text x="45" y="248" font-size="10" fill="#666">You're browsing as a guest —</text>
+  <text x="330" y="248" font-size="10" fill="#222" text-anchor="end">Sign up →</text>
+
+  <!-- settings list -->
+  <g>
+    <line x1="25" y1="300" x2="350" y2="300" stroke="#eee"/>
+    <rect x="25" y="312" width="130" height="10" fill="#d9d9d9"/>
+    <text x="335" y="322" font-size="12" fill="#999" text-anchor="end">›</text>
+  </g>
+  <g>
+    <line x1="25" y1="352" x2="350" y2="352" stroke="#eee"/>
+    <rect x="25" y="364" width="160" height="10" fill="#d9d9d9"/>
+    <text x="335" y="374" font-size="12" fill="#999" text-anchor="end">›</text>
+  </g>
+  <g>
+    <line x1="25" y1="404" x2="350" y2="404" stroke="#eee"/>
+    <rect x="25" y="416" width="110" height="10" fill="#d9d9d9"/>
+    <text x="335" y="426" font-size="12" fill="#999" text-anchor="end">›</text>
+  </g>
+  <g>
+    <line x1="25" y1="456" x2="350" y2="456" stroke="#eee"/>
+    <rect x="25" y="468" width="145" height="10" fill="#d9d9d9"/>
+    <text x="335" y="478" font-size="12" fill="#999" text-anchor="end">›</text>
+  </g>
+  <g>
+    <line x1="25" y1="508" x2="350" y2="508" stroke="#eee"/>
+    <rect x="25" y="520" width="95" height="10" fill="#d9d9d9"/>
+    <text x="335" y="530" font-size="12" fill="#999" text-anchor="end">›</text>
+  </g>
+  <line x1="25" y1="560" x2="350" y2="560" stroke="#eee"/>
+
+  <!-- sign out -->
+  <rect x="25" y="600" width="325" height="48" rx="8" fill="#fff" stroke="#999" stroke-width="1.5"/>
+  <text x="187" y="629" font-size="11" fill="#666" text-anchor="middle">SIGN OUT</text>
+
+  <!-- bottom nav -->
+  <rect x="0" y="740" width="375" height="72" fill="#fafafa" stroke="#222" stroke-width="1.5"/>
+  <circle cx="80" cy="776" r="12" fill="#ccc"/>
+  <rect x="60" y="795" width="40" height="6" fill="#ccc"/>
+  <circle cx="187" cy="776" r="12" fill="#ccc"/>
+  <rect x="167" y="795" width="40" height="6" fill="#ccc"/>
+  <circle cx="294" cy="776" r="12" fill="#222"/>
+  <rect x="274" y="795" width="40" height="6" fill="#222"/>
+
+  <text x="187" y="20" font-size="10" fill="#666" text-anchor="middle">Screen 6 · Profile / Settings</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg viewBox="0 0 375 812" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="373" height="810" fill="#ffffff" stroke="#222" stroke-width="2"/>
+  <rect x="0" y="0" width="375" height="30" fill="#f2f2f2" stroke="#222" stroke-width="1"/>
+
+  <rect x="25" y="55" width="140" height="16" fill="#d9d9d9"/>
+
+  <!-- week/month toggle -->
+  <rect x="230" y="53" width="120" height="30" rx="15" fill="#eee" stroke="#222" stroke-width="1"/>
+  <rect x="234" y="57" width="56" height="22" rx="11" fill="#222"/>
+  <text x="262" y="72" font-size="9" fill="#fff" text-anchor="middle">WEEK</text>
+  <text x="318" y="72" font-size="9" fill="#999" text-anchor="middle">MONTH</text>
+
+  <!-- calendar strip -->
+  <g>
+    <rect x="25" y="100" width="40" height="56" rx="8" fill="#fff" stroke="#ddd"/>
+    <rect x="75" y="100" width="40" height="56" rx="8" fill="#fff" stroke="#ddd"/>
+    <rect x="125" y="100" width="40" height="56" rx="8" fill="#222"/>
+    <rect x="175" y="100" width="40" height="56" rx="8" fill="#fff" stroke="#ddd"/>
+    <rect x="225" y="100" width="40" height="56" rx="8" fill="#fff" stroke="#ddd"/>
+    <rect x="275" y="100" width="40" height="56" rx="8" fill="#eee" stroke="#ddd"/>
+    <rect x="325" y="100" width="25" height="56" rx="8" fill="#eee" stroke="#ddd"/>
+  </g>
+
+  <!-- big trend chart card -->
+  <rect x="25" y="180" width="325" height="200" rx="10" fill="#fff" stroke="#999" stroke-width="1.5"/>
+  <rect x="45" y="196" width="150" height="10" fill="#d9d9d9"/>
+  <polyline points="50,340 95,320 140,300 185,250 230,270 275,220 320,200" fill="none" stroke="#222" stroke-width="3"/>
+  <circle cx="320" cy="200" r="5" fill="#222"/>
+  <line x1="45" y1="360" x2="330" y2="360" stroke="#eee" stroke-width="1"/>
+
+  <!-- summary stat cards -->
+  <rect x="25" y="400" width="100" height="90" rx="10" fill="#f6f6f6"/>
+  <rect x="40" y="420" width="40" height="14" fill="#ccc"/>
+  <rect x="40" y="450" width="70" height="8" fill="#e0e0e0"/>
+
+  <rect x="137" y="400" width="100" height="90" rx="10" fill="#f6f6f6"/>
+  <rect x="152" y="420" width="40" height="14" fill="#ccc"/>
+  <rect x="152" y="450" width="70" height="8" fill="#e0e0e0"/>
+
+  <rect x="249" y="400" width="100" height="90" rx="10" fill="#f6f6f6"/>
+  <rect x="264" y="420" width="40" height="14" fill="#ccc"/>
+  <rect x="264" y="450" width="70" height="8" fill="#e0e0e0"/>
+
+  <!-- history list link -->
+  <rect x="25" y="520" width="325" height="50" rx="8" fill="#fff" stroke="#222" stroke-width="1.5"/>
+  <text x="187" y="550" font-size="11" fill="#222" text-anchor="middle">VIEW FULL HISTORY →</text>
+
+  <!-- bottom nav -->
+  <rect x="0" y="740" width="375" height="72" fill="#fafafa" stroke="#222" stroke-width="1.5"/>
+  <circle cx="80" cy="776" r="12" fill="#ccc"/>
+  <rect x="60" y="795" width="40" height="6" fill="#ccc"/>
+  <circle cx="187" cy="776" r="12" fill="#222"/>
+  <rect x="167" y="795" width="40" height="6" fill="#222"/>
+  <circle cx="294" cy="776" r="12" fill="#ccc"/>
+  <rect x="274" y="795" width="40" height="6" fill="#ccc"/>
+
+  <text x="187" y="20" font-size="10" fill="#666" text-anchor="middle">Screen 5 · Progress (weekly trend, default view)</text>
+</svg>

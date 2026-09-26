@@ -1,0 +1,44 @@
+<svg viewBox="0 0 375 812" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="373" height="810" fill="#ffffff" stroke="#222" stroke-width="2"/>
+  <rect x="0" y="0" width="375" height="30" fill="#f2f2f2" stroke="#222" stroke-width="1"/>
+
+  <!-- back arrow -->
+  <line x1="25" y1="55" x2="15" y2="65" stroke="#222" stroke-width="2"/>
+  <line x1="25" y1="75" x2="15" y2="65" stroke="#222" stroke-width="2"/>
+
+  <!-- title -->
+  <rect x="30" y="110" width="160" height="16" fill="#d9d9d9"/>
+
+  <!-- tabs: Log in / Sign up -->
+  <rect x="30" y="150" width="150" height="36" fill="#eee" stroke="#222" stroke-width="1.5"/>
+  <rect x="180" y="150" width="150" height="36" fill="#fff" stroke="#222" stroke-width="1.5"/>
+  <text x="105" y="172" font-size="11" text-anchor="middle" fill="#222">LOG IN</text>
+  <text x="255" y="172" font-size="11" text-anchor="middle" fill="#999">SIGN UP</text>
+
+  <!-- input: email -->
+  <rect x="30" y="210" width="315" height="46" rx="6" fill="#fff" stroke="#999" stroke-width="1.5"/>
+  <rect x="42" y="228" width="80" height="8" fill="#ccc"/>
+
+  <!-- input: password -->
+  <rect x="30" y="270" width="315" height="46" rx="6" fill="#fff" stroke="#999" stroke-width="1.5"/>
+  <rect x="42" y="288" width="90" height="8" fill="#ccc"/>
+
+  <!-- forgot password -->
+  <rect x="255" y="326" width="90" height="8" fill="#e0e0e0"/>
+
+  <!-- primary CTA -->
+  <rect x="30" y="370" width="315" height="50" rx="8" fill="#222"/>
+  <text x="187" y="400" font-size="11" fill="#fff" text-anchor="middle">LOG IN</text>
+
+  <!-- divider -->
+  <line x1="30" y1="450" x2="150" y2="450" stroke="#ddd" stroke-width="1"/>
+  <text x="187" y="454" font-size="9" fill="#999" text-anchor="middle">OR</text>
+  <line x1="225" y1="450" x2="345" y2="450" stroke="#ddd" stroke-width="1"/>
+
+  <!-- continue as guest -->
+  <rect x="30" y="480" width="315" height="50" rx="8" fill="#fff" stroke="#222" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="187" y="510" font-size="11" fill="#222" text-anchor="middle">CONTINUE AS GUEST</text>
+
+  <rect x="140" y="795" width="95" height="4" rx="2" fill="#222"/>
+  <text x="187" y="20" font-size="10" fill="#666" text-anchor="middle">Screen 2 · Sign Up / Log In (optional)</text>
+</svg>
